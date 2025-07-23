@@ -1,5 +1,5 @@
 # Word-Search
-Word Search Puzzle Solver
+
 Overview
 This is a C program that reads a square word search puzzle from a file and allows the user to search for a word within the puzzle. If the word is found, the program displays the path of the word in the grid.
 
